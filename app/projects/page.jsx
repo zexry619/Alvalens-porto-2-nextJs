@@ -47,7 +47,7 @@ export default function Page() {
 							className="bg-slate-300 rounded-sm h-[400px] md:h-[600px] w-[80vw] md:w-[30vw] grayscale hover:grayscale-0 ">
 							<Image
 								src={ProjectAll}
-								alt="Alvalens"
+								alt="Zekri"
 								layout="fill"
 								objectFit="cover"
 								placeholder="blur"
@@ -102,7 +102,7 @@ export default function Page() {
 									className="w-full h-full shadow-lg">
 									<Image
 										src={ReactChat1}
-										alt="Alvalens"
+										alt="Zekri"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"
@@ -126,7 +126,7 @@ export default function Page() {
 									className="w-full h-full shadow-lg ">
 									<Image
 										src={ReactChat3}
-										alt="Alvalens"
+										alt="Zekri"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"
@@ -152,7 +152,7 @@ export default function Page() {
 									className="w-full h-full shadow-lg">
 									<Image
 										src={ReactChat2}
-										alt="Alvalens"
+										alt="Zekri"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"

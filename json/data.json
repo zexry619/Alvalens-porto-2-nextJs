@@ -8,7 +8,7 @@
       ],
       "year": "2023",
       "preview": "https://generative-trivia.vercel.app/",
-      "code": "https://github.com/Alvalens/generative-trivia",
+      "code": "https://github.com/Zekri/generative-trivia",
       "images": [
         "/projects/trivia/trivia1.png",
         "/projects/trivia/trivia2.png",
@@ -53,8 +53,8 @@
         "RandomZone is a feature that allows the player to get a random number of steps. The 3D dice is a feature that allows the player to roll a 3D dice. The game also has a few other features menuy screen and also loading screen.", "Beside that the game also has a audio theme that will play when the game is started. The game also has a few sound effects such as dice roll sound, and a sound when the player win the game."
       ],
       "year": "2023",
-      "preview": "https://github.com/Alvalens/ludo-game/releases/tag/pre-release",
-      "code": "https://github.com/Alvalens/ludo-game",
+      "preview": "https://github.com/Zekri/ludo-game/releases/tag/pre-release",
+      "code": "https://github.com/Zekri/ludo-game",
       "images": [
         "/projects/LUDOang/ludo1.png",
         "/projects/LUDOang/ludo2.png",
@@ -75,7 +75,7 @@
       ],
       "year": "2023",
       "preview": "https://react-chat-rouge.vercel.app",
-      "code": "https://github.com/Alvalens/react-realtime-chat",
+      "code": "https://github.com/Zekri/react-realtime-chat",
       "images": [
         "/projects/chat/chat1.png",
         "/projects/chat/chat2.png",
@@ -102,7 +102,7 @@
       ],
       "year": "2023",
       "preview": "https://react-tools-flax.vercel.app",
-      "code": "https://github.com/Alvalens/react-tools",
+      "code": "https://github.com/Zekri/react-tools",
       "images": [
         "/projects/tools/tools.png",
         "/projects/tools/tools1.png",
@@ -123,7 +123,7 @@
         "Aleph is a Discord bot that I created for my dircord server to use. The bot is built using Python and the discord.py library. The bot has image grabber feauture that takes argument (keywords) and returns an image from the internet.", "Other than that this bot has a few other features such as utility command to delete a messages, and a command to get the server's ping. This bot is still in development and I plan to add more features in the future."],
       "year": "2023",
       "preview": "",
-      "code": "https://github.com/Alvalens/aleph-discord-bot",
+      "code": "https://github.com/Zekri/aleph-discord-bot",
       "images": [
         "/projects/bot/bot1.png",
         "/projects/bot/bot2.png"
