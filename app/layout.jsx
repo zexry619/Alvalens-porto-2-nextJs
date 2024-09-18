@@ -8,38 +8,33 @@ import "./nprogress.css";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata = {
-	title: "Alvalens | Portofolio",
+	title: "Zekri | Portofolio",
 	description:
-		"My name is Alvalens, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
-	author: "Alvalen Shafelbilyunazra",
-	siteUrl: "https://www.alvalens.my.id",
-	applicationName: "Alvalens",
+		"My name is Zekriansyah Ramadhan, I'm a Technical Support/Junio System Administrator. I Graduated From Amikom University Yogyakata.",
+	author: "Zekriansyah Ramadhan",
+	siteUrl: "https://zekri.id",
+	applicationName: "ZekriID",
 	keywords: [
-		"alvalens",
-		"alvalen",
-		"alvalen shafel",
-		"shafel",
-		"alvalen shafelbilyunazra",
-		"alvalen shafel bilyunazra",
-		"bloodfallen",
-		"alvalen porto",
-		"alvalen um",
+		"Zekri",
+		"Zekriansyah",
+		"Zekriansyah Ramadhan",
+		"zekrisme",
 	],
 	openGraph: {
 		type: "website",
-		url: "https://www.alvalens.my.id",
-		title: "Alvalens | Portofolio",
-		site_name: "Alvalens | Portofolio",
-		description: "My name is Alvalens, This is my portofolio website.",
+		url: "https://zekri.id",
+		title: "Zekri | Portofolio",
+		site_name: "Zekri | Portofolio",
+		description: "My name is Zekri, This is my Portofolio website.",
 		width: 1200,
 		height: 630,
 		images: [
 			{
 				url: "/og-image-rev.png",
-				alt: "Alvalens Portofolio",
+				alt: "Zekri Portofolio",
 			},
 		],
-		site_name: "Alvalens | Portofolio",
+		site_name: "Zekri | Portofolio",
 	},
 };
 
